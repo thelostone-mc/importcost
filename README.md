@@ -11,7 +11,8 @@ apm install importcost
 ### Demo
 ![importcost demo](./import-cost.gif)
 
-___when an npm module is not installed locally___
+___when the npm module isn't installed locally___
+
 ![importcost-api demo](./import-cost-api.gif)
 
 ### Usage & Working
