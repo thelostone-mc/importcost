@@ -9,6 +9,10 @@ apm install importcost
 ```
 
 ### Demo
+![importcost demo](./import-cost.gif)
+
+___when an npm module is not installed locally___
+![importcost-api demo](./import-cost-api.gif)
 
 ### Usage & Working
 Just install the package and it kicks in for '.js' and '.ts' files.
