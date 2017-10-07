@@ -1,0 +1,22 @@
+{
+  "name": "importcost",
+  "main": "./lib/importcost",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "repository": "https://github.com/atom/importcost",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "axios": "^0.16.2",
+    "import-cost": "^1.2.2",
+    "node-source-walk": "^3.3.0",
+    "read-pkg-up": "^2.0.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.0"
+  }
+}
