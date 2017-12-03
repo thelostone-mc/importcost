@@ -1,7 +1,7 @@
 {
   "name": "importcost",
   "main": "./lib/importcost",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "know your import load",
   "keywords": [],
   "repository": "https://github.com/thelostone-mc/importcost",
