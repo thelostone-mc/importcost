@@ -26,11 +26,11 @@ If the module hasn't been installed / not present in `package.json`, it assumes 
 
 - [wix/import-cost](https://github.com/wix/import-cost/tree/master/packages/import-cost) -
   Enables traversing `node_modules` to find the module cost.
-- [pastelskys](https://github.com/pastelsky/bundlephobia])
-[bundlephobia](https://bundlephobia.com/]) - Providing the means to find module
+- [pastelskys](https://github.com/pastelsky/bundlephobia)
+[bundlephobia](https://bundlephobia.com/) - Providing the means to find module
 cost via an API. [Used as a fallback mechanism]
 
-Do check them amount ^\_^
+Do check them out! ^_^
 
 ### Contributing
 
